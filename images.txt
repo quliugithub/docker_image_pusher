@@ -5,3 +5,5 @@
 #bestwu/ewomail
 #clash
 dreamacro/clash
+#yacd
+ghcr.io/haishanh/yacd:master
