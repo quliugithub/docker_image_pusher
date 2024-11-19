@@ -8,4 +8,4 @@ dreamacro/clash
 #yacd
 ghcr.io/haishanh/yacd:master
 python:3.10-alpine
-subconverter
+tindy2013/subconverter
