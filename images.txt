@@ -10,3 +10,4 @@ ghcr.io/haishanh/yacd:master
 python:3.10-alpine
 tindy2013/subconverter
 careywong/subweb:latest
+ metacubex/mihomo:Alpha
