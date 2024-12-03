@@ -12,3 +12,4 @@ tindy2013/subconverter
 careywong/subweb:latest
 metacubex/mihomo:Alpha
 ghcr.io/metacubex/metacubexd
+dockurr/windows
