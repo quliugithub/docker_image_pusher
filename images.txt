@@ -13,3 +13,4 @@ careywong/subweb:latest
 metacubex/mihomo:Alpha
 ghcr.io/metacubex/metacubexd
 dockurr/windows
+node:18
