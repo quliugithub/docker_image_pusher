@@ -14,3 +14,4 @@ metacubex/mihomo:Alpha
 ghcr.io/metacubex/metacubexd
 dockurr/windows
 node:18
+node:18-alpine
