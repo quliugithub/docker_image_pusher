@@ -16,3 +16,4 @@ dockurr/windows
 node:18
 node:18-alpine
 budtmo/docker-android:emulator_14.0
+budtmo/docker-android:emulator_9.0
