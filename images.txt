@@ -12,7 +12,7 @@ tindy2013/subconverter
 careywong/subweb:latest
 metacubex/mihomo:Alpha
 ghcr.io/metacubex/metacubexd
-dockurr/windows:win81
+dockurr/windows
 node:18
 node:18-alpine
 budtmo/docker-android:emulator_14.0
