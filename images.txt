@@ -20,3 +20,4 @@ budtmo/docker-android:emulator_11.0
 coleifer/sqlite-web
 python:3.10-slim
 tvial/docker-mailserver:latest
+hardware/rainloop
