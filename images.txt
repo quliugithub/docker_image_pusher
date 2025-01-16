@@ -21,3 +21,4 @@ coleifer/sqlite-web
 python:3.10-slim
 tvial/docker-mailserver:latest
 hardware/rainloop
+python:3.10
