@@ -1,2 +1,2 @@
 #支持私库
-nginx
+apache/skywalking-java-agent
