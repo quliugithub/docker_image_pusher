@@ -1,3 +1,4 @@
 #支持私库
 redis
 postgres:13
+ubuntu:24.04
