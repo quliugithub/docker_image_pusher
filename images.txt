@@ -5,3 +5,4 @@ ubuntu:24.04
 linuxserver/qbittorrent
 nastools/nas-tools:2.9.1
 rustdesk/rustdesk-server-pro:latest
+rustdesk/rustdesk-server:latest
