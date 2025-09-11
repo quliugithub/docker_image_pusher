@@ -8,3 +8,4 @@ rustdesk/rustdesk-server-pro:latest
 rustdesk/rustdesk-server:latest
 jitsi/prosody:unstable
 jitsi/jicofo:unstable
+jitsi/jvb:unstable
