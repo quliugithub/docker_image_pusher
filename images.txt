@@ -10,3 +10,4 @@ jitsi/prosody:unstable
 jitsi/jicofo:unstable
 jitsi/jvb:unstable
 jitsi/web:unstable
+jitsi/prosody:stable-ldap
