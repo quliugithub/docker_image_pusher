@@ -1,1 +1,1 @@
-jitsi/jicofo:jicofo-1.0-1161-1
+jitsi/prosody:prosody-13.0.2
