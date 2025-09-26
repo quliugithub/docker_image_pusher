@@ -1,1 +1,1 @@
-jitsi/jvb:jvb-2.3-259-g22868ff7d-1
+jitsi/jicofo:jicofo-1.0-1161-1
