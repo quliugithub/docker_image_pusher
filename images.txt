@@ -11,3 +11,7 @@ jitsi/jicofo:unstable
 jitsi/jvb:unstable
 jitsi/web:unstable
 jitsi/prosody:stable-ldap
+jitsi/web:web-1.0.8829-1
+jitsi/jicofo:jicofo-1.0-1161-1
+jitsi/prosody:prosody-13.0.2
+jitsi/jvb:jvb-2.3-259-g22868ff7d-1
