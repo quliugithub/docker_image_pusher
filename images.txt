@@ -1,1 +1,1 @@
-jitsi/prosody:prosody-13.0.2
+jitsi/web:web-1.0.8829-1
