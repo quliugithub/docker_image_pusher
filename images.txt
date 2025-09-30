@@ -1,1 +1,1 @@
-jitsi/web:web-1.0.8829-1
+kylemanna/openvpn:2.4
